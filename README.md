@@ -1,0 +1,2 @@
+# Post-it-my-linux
+Segue aqui o enunciado do Livro do Phyton Direto ao Ponto. Nesse enunciado eu irei ter que tentar construir a minha maneira o código. Segue o enunciado --->  A nossa nova habilidade de ler e escrever arquivos, permite solucionar isso, agora temos uma forma de salvar nossos dados. Além disso, podemos utilizar nosso conhecimento em funções para organizar o código. Vamos implementar essa atualização? Caso você goste de desafios, tente implementar essa melhoria antes de continuar a leitura!
